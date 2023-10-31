@@ -1,0 +1,3 @@
+Colored string 7 's fingerprint: 
+CAAGGGG
+Fingerprint size: 7

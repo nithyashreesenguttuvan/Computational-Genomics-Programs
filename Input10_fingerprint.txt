@@ -1,0 +1,3 @@
+Colored string 9 's fingerprint: 
+GTCCCC
+Fingerprint size: 6

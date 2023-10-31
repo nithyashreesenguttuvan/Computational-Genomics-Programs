@@ -1,0 +1,3 @@
+Colored string 6 's fingerprint: 
+AACCTCG
+Fingerprint size: 7

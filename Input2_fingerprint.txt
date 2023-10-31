@@ -1,0 +1,3 @@
+Colored string 1 's fingerprint: 
+ACTTACCG
+Fingerprint size: 8

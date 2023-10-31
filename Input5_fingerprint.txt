@@ -1,0 +1,3 @@
+Colored string 4 's fingerprint: 
+CGCGCTC
+Fingerprint size: 7

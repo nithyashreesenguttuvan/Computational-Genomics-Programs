@@ -1,0 +1,3 @@
+Colored string 3 's fingerprint: 
+ACTAAGGA
+Fingerprint size: 8
